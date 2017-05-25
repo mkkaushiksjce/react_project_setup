@@ -2,8 +2,6 @@
 
 React redux setup inspired by https://github.com/wrick17/react-template
 
-**FOR A PROJECT USING REDUX AND REACT-ROUTER PLEASE USE THE OTHER BRANCH**
-
 # HOW TO GET STARTED
 
 clone the repo
@@ -21,8 +19,6 @@ for production stuff:
 npm run build
 node server.js
 ```
-
-ENJOY!!
 
 # READ BEFORE YOU START WORKING
 * Make sure all your Components have Proptypes
