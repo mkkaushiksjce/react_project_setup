@@ -1,6 +1,6 @@
 # React Project setup
 
-React redux setup inspired by https://github.com/wrick17/react-template
+React redux setup inspired by https://github.com/wrick17/react-template. Project restructured for my workflow.
 
 # HOW TO GET STARTED
 
