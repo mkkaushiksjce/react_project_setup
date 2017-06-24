@@ -15,7 +15,7 @@ class HomePage extends React.Component{
     const {props, state} = this;
 
     return(
-      <div className="landing">Hello World
+      <div className="landing">Mayaskara
       </div>
     )
   }
